@@ -47,7 +47,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [𝓜𝓤𝓢𝓛𝓘𝓜 𝓤𝓓𝓓𝓘𝓝 𝓜𝓚](https://www.instagram.com/mumit_islam)
+- ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [𝓜𝓤𝓢𝓛𝓘𝓜 𝓤𝓓𝓓𝓘𝓝 𝓜𝓚](https://www.instagram.com/muslim_uddin_mk?)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
