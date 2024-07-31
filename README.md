@@ -43,7 +43,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝓜𝓤𝓢𝓛𝓘𝓜 𝓤𝓓𝓓𝓘𝓝 𝓜𝓚]((https://www.facebook.com/profile.php?id=100077752513671)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝓜𝓤𝓢𝓛𝓘𝓜 𝓤𝓓𝓓𝓘𝓝 𝓜𝓚](https://www.facebook.com/profile.php?id=100077752513671)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
