@@ -29,7 +29,7 @@
 
 - ➪ 𝙽𝙰𝙼𝙴 :- ✌𝓜𝓤𝓢𝓛𝓘𝓜 𝓤𝓓𝓓𝓘𝓝 𝓜𝓚✌
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
 - ➪ 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼
 
