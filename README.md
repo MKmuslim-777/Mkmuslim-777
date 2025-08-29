@@ -25,7 +25,7 @@
 
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
 - ➪ 𝙽𝙰𝙼𝙴 :- ✌𝓜𝓤𝓢𝓛𝓘𝓜 𝓤𝓓𝓓𝓘𝓝 𝓜𝓚✌
 
@@ -33,23 +33,23 @@
 
 - ➪ 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
 - ➪ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝚂𝚃𝚄𝙳𝚈
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
 - ➪ 𝚁𝙴𝙻𝙰𝚃𝙸𝙾𝙽𝚂𝙷𝙸𝙿 :- 𝚂𝙸𝙽𝙶𝙻𝙴
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
 - ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝓜𝓤𝓢𝓛𝓘𝓜 𝓤𝓓𝓓𝓘𝓝 𝓜𝓚](https://www.facebook.com/profile.php?id=100077752513671)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
 - ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [𝓜𝓤𝓢𝓛𝓘𝓜 𝓤𝓓𝓓𝓘𝓝 𝓜𝓚](https://www.instagram.com/muslim_uddin_mk?)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
 <a href="https://github.com/MKmuslim-777"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
