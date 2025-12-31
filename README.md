@@ -12,8 +12,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4935&pause=500&color=F70000&width=435&lines=I+AM+MUSLIM+UDDIN+MK;I+AM+PROGRAMING+LEARNNER;IT's+NOT+;MK-777;%F0%9F%A5%B0THANK+YOU+EVERYONE%F0%9F%AB%B0)](https://git.io/typing-svg)
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="[https://github.com/MKmuslim-777]"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MUMIT-404-CYBER&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<h3><b><i>My Skills :</i></b></h3>
+## 🛠 Skills & Technologies
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cybersecurity
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </p>
 <p align="center"> 
