@@ -2,10 +2,12 @@
 
 # Hi there, I'm Muslim uddin mk 👋
 
-![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Web_Developer-007ACC?style=for-the-badge&logo=react&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack_Web_Developer-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
+</p>
 
 
-<p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
 
 </i></b></h3>
 <h3 align="center">
