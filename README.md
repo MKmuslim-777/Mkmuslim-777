@@ -68,13 +68,6 @@
 
 ---
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝓜𝓤𝓢𝓛𝓘𝓜 𝓤𝓓𝓓𝓘𝓝 𝓜𝓚](https://www.facebook.com/profile.php?id=100077752513671)
-
----
-
-- ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [𝓜𝓤𝓢𝓛𝓘𝓜 𝓤𝓓𝓓𝓘𝓝 𝓜𝓚](https://www.instagram.com/muslim_uddin_mk?)
-
----
 
 - ➪ WEBSITE :- [Mk777](https://mk777.rf.gd/?i=1)
 
@@ -86,5 +79,5 @@
   <a href="https://www.linkedin.com/in/muslim-uddin-kaichan-65918a380/"><img title="LinkedIn" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
   <a href="https://github.com/MKmuslim-777"><img title="Github" alt="Github" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" /></a>
   <a href="https://mk777.rf.gd/"><img title="Website" alt="Website" width="35px" src="https://mk777.rf.gd/img.png" /></a>
-  <a href="https://www.instagram.com/muslim_uddin_mk/?hl=en"><img title="Instagram" alt="Instagram" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+  
 </p>
