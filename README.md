@@ -86,6 +86,5 @@
   <a href="https://www.linkedin.com/in/muslim-uddin-kaichan-65918a380/"><img title="LinkedIn" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
   <a href="https://github.com/MKmuslim-777"><img title="Github" alt="Github" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" /></a>
   <a href="https://mk777.rf.gd/"><img title="Website" alt="Website" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100077752513671"><img title="Facebook" alt="Facebook" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
   <a href="https://www.instagram.com/muslim_uddin_mk/?hl=en"><img title="Instagram" alt="Instagram" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
 </p>
