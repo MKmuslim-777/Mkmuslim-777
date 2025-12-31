@@ -18,7 +18,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=5007&pause=1000&color=09F7D5&width=435&lines=It's+Me;Muslim+uddin+mk%F0%9F%91%8B;Ful-+Stack+Web+Developer;I+love+building+user+friendly+web+applications+with;React+JS%2C+Next+JS%2C+;Node+JS%2C+Express+JS+;Database+for+mongoDB" alt="Typing SVG" /></a>
 
 
-
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 
 <h3 align="center"><b><i>🛠My Skills & Technologies :</i></b></h3>
