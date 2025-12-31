@@ -23,6 +23,23 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 
+## 👨‍💻 About Me
+
+> I am a **Full-Stack Web Developer** with a deep love for building modern web applications. I specialize in crafting seamless user experiences using **React, Next.js, and Tailwind CSS**, while powering them with solid backends like **Node.js, Express.js, MongoDB, and Firebase**. 
+>
+> With a background in **Python for Cybersecurity**, I don't just build features; I build secure, production-ready solutions.
+
+### 🚀 Quick Facts
+- 💻 Currently working on: **Full-Stack Projects**
+- 🛡️ Interested in: **Web Security & Ethical Hacking**
+- ⚡ Fun fact: **I believe clean code is just as important as a clean UI.**
+
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+
+
+
 <h3 align="center"><b><i>🛠My Skills & Technologies :</i></b></h3>
 
 <p align="center">
