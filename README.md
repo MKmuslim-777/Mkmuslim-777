@@ -56,10 +56,7 @@
 </p>
 
 </p>
-<p align="center"> 
- 𝓥𝓘𝓢𝓘𝓣𝓞𝓡𝓢 𝓒𝓞𝓤𝓝𝓣
- <img src="https://profile-counter.glitch.me/MUMIT-404-CYBER/count.svg" alt="Visitors">
-</p>
+
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
