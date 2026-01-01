@@ -1,5 +1,8 @@
 <!-- Github README -->
 
+
+<img src="https://i.ibb.co.com/X1cFNW7/White-and-Blue-Minimalist-Freelance-Web-Developer-Linked-In-Banner-01.jpg" width="25">
+
 # Hi there, I'm Muslim uddin mk 👋
 
 <p align="center">
