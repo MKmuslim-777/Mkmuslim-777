@@ -17,7 +17,7 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=It's+Me;Muslim+uddin+mk;Full-stack+web+developer" alt="Typing SVG" /></a>
+<a href="https://mk777.rf.gd/?i=1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=5008&pause=1003&color=24F7E0&width=437&lines=It's+Me;Muslim+uddin+mk;Full-stack+web+developer;React.JS+%7C+Next.JS;Node.JS%2C+Express.JS;MongoDB%2C+Firebase" alt="Typing SVG" /></a>
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
