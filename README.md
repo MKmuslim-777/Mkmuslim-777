@@ -27,7 +27,7 @@
 
 > I am a **Full-Stack Web Developer** with a deep love for building modern web applications. I specialize in crafting seamless user experiences using **React, Next.js, and Tailwind CSS**, while powering them with solid backends like **Node.js, Express.js, MongoDB, and Firebase**. 
 >
-> With a background in **Python for Cybersecurity**, I don't just build features; I build secure, production-ready solutions.
+> I'm learning **Python for Cybersecurity**, I don't just build features; I want to build more secure, production-ready solutions.
 
 ### 🚀 Quick Facts
 - 💻 Currently working on: **Full-Stack Projects**
